@@ -1,0 +1,10 @@
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/26473a55-6802-4ee7-a291-d0577ee72110.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/f53f1484-69f6-4f96-bdec-a772649ce164.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/a4df12f5-913a-4dfc-a631-6db061196931.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/31d27b45-da03-441b-9b64-02ccffe3efcf.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/f33127b8-ea05-4ccc-ae80-b745c9d7ebf0.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/5d79fdff-d4c3-46fd-95cc-27d5d5382e39.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/9fd1ffed-2af3-4e49-96bb-b3bdc098d0fc.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/23601172-0948-409a-a4c6-47dc2d720e58.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/f58de15f-52ac-4820-9077-64e14738fc9d.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/299/00000/08702dc9-3465-4965-9498-9a4592ae486b.root

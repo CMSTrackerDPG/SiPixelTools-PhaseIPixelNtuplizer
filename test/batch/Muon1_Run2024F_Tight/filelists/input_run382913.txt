@@ -1,0 +1,15 @@
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/d57ea831-e2dc-482c-8ae5-cffa88bc15c7.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/7e252099-0c15-42d6-b706-a60a8ebca96e.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/2eff65c2-9bc5-4880-b210-b8b2dd258637.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/843e89b6-f2d3-45ff-a01d-fabc3a5981ab.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/a5edc2dd-69ac-4a12-883d-4fcccbb4d913.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/833ebf90-bf9b-4dac-8b33-358cc2487ca5.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/d85038af-79c7-412d-86ac-ce931da24eb9.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/d924c4b2-cee7-49d7-a8a2-cf79e237c9ce.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/83bd34f5-5fea-43d4-954a-c926a12efce5.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/05921237-d3d1-452b-901d-ae82efdf3de7.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/7f466f38-bbed-48f5-98f4-cd11aebb9dd5.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/2aa9e430-d677-4308-9e22-8424d2e6707d.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/ea49bb21-daa6-4c07-9bab-dae9788050bb.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/0521d59a-e113-456a-90a3-f5d4a0046855.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/382/913/00000/e7a72f37-cc63-4db8-9386-365cfafed3d2.root

@@ -1,0 +1,7 @@
+NTuple conversion process for Muon1_Run2024F_Tight summary
+
+Task name: Muon1_Run2024F_Tight
+Output dir: /pnfs/psi.ch/cms/trivcat/store/user/bevila_t/test2/phys/xpluscharm/pixel2024/ntuples/
+Input filelists in : filelists/input*.txt
+Slurm jobs template: slurm_jobscript.sh
+Number of jobs: 121

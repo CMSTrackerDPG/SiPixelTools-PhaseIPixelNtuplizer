@@ -1,0 +1,15 @@
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/5c707ad2-508f-40c5-8ca0-501fe6bbe7e7.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/5dbe59d1-90a8-4dcb-abf1-69bf974d2fa5.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/90534ac2-bb57-495e-8e32-9eaaed06b136.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/0ee8cc46-ad09-4091-bfe4-6ef54f7f41bb.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/7f4f50d9-31cf-4c00-971e-793763d43e88.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/275f6b33-bf5a-4c59-adc4-004b84ccca66.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/7207bfab-3dcb-4903-a8a9-16bb1bc51498.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/72932944-7697-4849-956d-a641049814ce.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/7fea0593-9bf7-4b0b-9243-34e0279fd4eb.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/6001fc7e-ce3f-48ab-8045-b5d61d0c7e65.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/83a2549d-5cb1-4345-9bb5-9917dba1e112.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/8012e6fc-956e-4279-b4d4-7737d363b0bb.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/e4c9b6a0-cf70-4f66-9098-cfd25ae86d6a.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/9bb52aa7-94e7-4ae0-82a6-c3b1250dd5ed.root
+/store/data/Run2024F/Muon1/ALCARECO/SiPixelCalSingleMuonTight-PromptReco-v1/000/383/468/00000/805c474e-b590-4200-b48d-2acf006299f6.root
