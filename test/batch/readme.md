@@ -91,7 +91,7 @@ If `n` is chosen, the runs can be submitted later by running:
 python my_batch_sub_script.py --input Muon0_Run2024F_Tight.json --submit
 ```
 
-The log output directory is defined inside `slurm_jobscript.sh`.
+The log output directory is defined inside `my_batch_sub_script`.
 
  *Troubleshooting:* If access issues occur when reading data from remote sites, transferring the necessary input datasets locally to T3 resolves the problem.
 
