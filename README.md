@@ -81,6 +81,18 @@ cd SiPixelTools/PhaseIPixelNtuplizer
 scram b -j 8 USER_CXXFLAGS="-DCMSSW_VERSION=123"
 ```
 
+#### CMSSW_15_0_X
+
+```bash
+cmsrel CMSSW_15_0_15_patch3
+cd CMSSW_15_0_15_patch3/src
+cmsenv
+# git cms-init #optional, use this, if you want to check out CMSSW packages later
+git clone https://github.com/CMSTrackerDPG/SiPixelTools-PhaseIPixelNtuplizer SiPixelTools/PhaseIPixelNtuplizer
+cd SiPixelTools/PhaseIPixelNtuplizer
+scram b -j 8 USER_CXXFLAGS="-DCMSSW_VERSION=123"
+```
+
 ### &#x1F539; Running on ALCARECO
 Runs on RECO also, but ALCARECO is the new default since 2021 summer
 
