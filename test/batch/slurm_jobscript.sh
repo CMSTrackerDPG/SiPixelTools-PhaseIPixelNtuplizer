@@ -6,6 +6,7 @@
 #SBATCH --time=8:00:00
 #SBATCH --nodes=1
 
+set -x
 echo "------------------------------------------------------------"
 echo "[`date`] Job started"
 echo "------------------------------------------------------------"
@@ -146,9 +147,9 @@ echo
 
 # Copy to Eos
 if [[ ${USERDIR} == /pnfs/* ]]; then
-    xrdcp -f -N $output root://t3dcachedb.psi.ch:1094//$USERDIR/$output
-    xrdcp -f -N /work/${USER}/test/.slurm/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.out root://t3dcachedb.psi.ch:1094//$USERDIR/logs/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.out
-    xrdcp -f -N /work/${USER}/test/.slurm/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.err root://t3dcachedb.psi.ch:1094//$USERDIR/logs/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.err
+    xrdcp -f -N $output root://t3dcachedb03.psi.ch:1094//$USERDIR/$output
+    xrdcp -f -N /work/${USER}/test/.slurm/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.out root://t3dcachedb03.psi.ch:1094//$USERDIR/logs/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.out
+    xrdcp -f -N /work/${USER}/test/.slurm/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.err root://t3dcachedb03.psi.ch:1094//$USERDIR/logs/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.err
 else
     cp $output $USERDIR/$output
     cp  /work/${USER}/test/.slurm/${SLURM_JOB_NAME}_${SLURM_JOB_ID}_${4}.out $USERDIR/logs/${SLURM_JOB_ID}_${SLURM_JOB_ID}_${4}.out
