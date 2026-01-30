@@ -149,6 +149,7 @@ if opt.create:
         )
 
     runs = metadata["runs"] if isinstance(metadata["runs"], list) else cerified_runs
+    print("Processing runs: ", runs)
     for i, run in enumerate(runs):
         run = str(run)
         ash = int((100.0/len(runs)*i) // 1)

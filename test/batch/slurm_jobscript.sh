@@ -51,8 +51,8 @@ input=$9
 if [[ ${USERDIR} == /pnfs/* ]]; then
     (
       (! command -v scram &> /dev/null) || eval `scram unsetenv -sh`
-      gfal-mkdir -p root://t3dcachedb.psi.ch:1094/$USERDIR
-      gfal-mkdir -p root://t3dcachedb.psi.ch:1094/$USERDIR/logs
+      gfal-mkdir -p root://t3dcachedb03.psi.ch:1094/$USERDIR
+      gfal-mkdir -p root://t3dcachedb03.psi.ch:1094/$USERDIR/logs
       sleep 5
     )
 #mkdir -p $USERDIR
@@ -75,7 +75,8 @@ echo "                          Creating JOB ["${job_num}"]"
 echo
 
 #export SCRAM_ARCH=slc7_amd64_gcc10
-export SCRAM_ARCH=slc7_amd64_gcc820
+#export SCRAM_ARCH=slc7_amd64_gcc820
+export SCRAM_ARCH=el9_amd64_gcc12
 cd ${TMPDIR}
 
 scramv1 project CMSSW ${cmssw}
@@ -125,7 +126,7 @@ else
     mv tmp ${executable}
 fi
 chmod 755 ${executable}
-cp ${executable} /work/bevila_t 
+cp ${executable} /work/${USER}
 
 if [[ $# > 9 ]]; then
     echo $#
